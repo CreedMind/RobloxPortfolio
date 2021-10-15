@@ -7,7 +7,7 @@
 </h2>
 
 <p>
-Hi there! I am offering my services as a builder and scriper. I specialize in asset creation, level design and terrain. I have been building for 2 years and done minimal scripting but have still had some expirience and have previously worked on genres such as SCP, military and arcade.
+Hi there! I am offering my services as a builder and scriper. I specialize in asset creation, level design and GUIs. I have been building for 2 years and done minimal scripting but have still had some expirience and have previously worked on genres such as SCP, military and arcade.
 </p>
 
 <h2> 
