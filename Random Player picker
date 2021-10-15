@@ -1,0 +1,7 @@
+local plrs = game.Players -- variable declaring players in the game
+
+local num = math.random(1, plrs:GetChildren()) -- variable that chooses the player
+
+local choseplr = plrs:GetChildren()[num] -- choosing the player using the two variables
+
+print(choseplr.Name.."was chosen!") -- what happens to the player once they have been chosen
