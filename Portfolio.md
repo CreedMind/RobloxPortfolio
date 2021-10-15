@@ -76,7 +76,6 @@ Prices are negotiable, I am fairly cheap and accept either hourly pay or per ass
 You can contact me on discord:<b> Creed#1000 </b>
 </p>
  
-<footer>
-
- <center> Thanks for reading! </center>
-</footer>
+ <h1>
+Thanks for reading!
+</h1>
