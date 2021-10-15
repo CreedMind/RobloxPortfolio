@@ -1,0 +1,16 @@
+local CurrentLocation = script.Parent
+local Destination = game.Workspace.Part2
+-- local variable for each part.
+
+CurrentLocation.Touched:Connect(function(Touch)
+	-- Touched function.
+
+	if Touch.Parent:FindFirstChild("HumanoidRootPart") then
+		-- Checks if the touched part parent contains 'HumanoidRootPart'
+		
+		Touch.Parent:FindFirstChild("HumanoidRootPart").CFrame = Destination.CFrame + Vector3.new(0,3,0)
+		-- This teleports the player to the destination.
+
+	end
+
+end)
