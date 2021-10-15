@@ -8,6 +8,7 @@
 
 <p>
 Hi there! I am offering my services as a builder and scriper. I specialize in asset creation, level design and GUIs. I have been building for 2 years and done minimal scripting but have still had some expirience and have previously worked on genres such as SCP, military and arcade.
+I am a big fixer upper, if something is not perfect I will carry on with it until it is even if it is something small or else it will bug me, on the topic of bugs I am good at fixing them, I think outside of the box without even realising sometimes which I belive is a key feature in the development world.
 </p>
 
 <h2> 
