@@ -77,5 +77,6 @@ You can contact me on discord:<b> Creed#1000 </b>
 </p>
  
 <footer>
-<center> Thanks for reading! </center>
+
+ <center> Thanks for reading! </center>
 </footer>
