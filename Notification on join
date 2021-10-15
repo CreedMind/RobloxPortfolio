@@ -1,6 +1,0 @@
-Game.ReplicatedStorage.RemoteEvent.OnClientEvent:connect(function()
-	game.StarterGui:SetCore("SendNotification", {
-		Title = "(Welcome!)",
-		Text = "(Welcome to the game!)"
-	})
-end)
