@@ -1,0 +1,5 @@
+
+game.Players.PlayerAdded:Connect(function(Player)
+	wait(5) --waits for 5 once player joins game
+	game.ReplicatedStorage.RemoteEvent:FireClient(Player) --fires event after 5 of player joining
+end)
