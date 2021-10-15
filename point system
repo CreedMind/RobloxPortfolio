@@ -1,0 +1,12 @@
+local Level = 1
+local XP = 1
+local pointsForNextLvl
+
+function AddXP(N)
+	pointsForNextLvl = math.ceil(math.log(Level+1,1.5)*100)
+	if XP+N >= pointsForNextLvl then
+		XP = Level+1
+	else
+		XP = XP+N
+	end
+end
